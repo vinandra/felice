@@ -1,5 +1,4 @@
-# Javelin <img src="https://static.wikia.nocookie.net/chainsaw-man/images/d/d9/Makima_anime_design_2.png" align="right">
-> If you're my pet, I'll give you food.
+# Marine <img src="https://i.imgur.com/k9jPkIQ.png" align="right">
 
 ## Pengaturan-Bot
 

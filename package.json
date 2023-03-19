@@ -1,7 +1,8 @@
 {
-  "name": "makima",
+  "name": "marine",
   "version": "1.0.0",
   "description": "This is a bot discord use Discord.js",
+  "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +14,6 @@
     "dotenv": "^16.0.3"
   },
   "devDependencies": {
-    "eslint": "^8.35.0",
-    "typescript": "^4.9.5"
+    "eslint": "^8.35.0"
   }
 }
