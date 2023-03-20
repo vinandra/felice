@@ -1,4 +1,4 @@
-# Marine <img src="https://i.imgur.com/k9jPkIQ.png" align="right">
+# Marine <img src="/static/aset.png" align="right">
 
 ## Pengaturan-Bot
 
