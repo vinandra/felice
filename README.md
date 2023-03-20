@@ -1,4 +1,4 @@
-# Marine <img src="/static/aset.png" align="right">
+# Marine <img src="static/static.png" align="right">
 
 ## Pengaturan-Bot
 
