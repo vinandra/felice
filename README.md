@@ -1,7 +1,7 @@
 # Felicecilia Atheisya <img src="static/static.png" align="right">
 <div align="center">
 	<p>
-		<a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/1000253744820273213?color=%235865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
+		<a href="https://discord.gg/BbQEe28pJT"><img src="https://img.shields.io/discord/1000253744820273213?color=%235865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
 	</p>
 	<p>
 		<a href="https://github.com/vinandra/felice"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Vercel" /></a>
