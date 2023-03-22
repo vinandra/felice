@@ -1,10 +1,13 @@
-const { Client } = require('discord.js');
+const {Client, ActivityType} = require("discord.js");
 
 module.exports = {
-  name: 'ready',
+  name: "ready",
   once: true,
+  /**
+   *
+   * @param {Client} client
+   */
   execute(client) {
-    console.log(`${client.user.tag} siap melayani!`);
-    client.user.setActivity(`Takoyaki 😡`);
+    console.log(`${client.user.username} booted up.`);
   },
 };
